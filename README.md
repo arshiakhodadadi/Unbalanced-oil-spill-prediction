@@ -1,1 +1,3 @@
 # Unbalanced-oil-spill-prediction
+About Dataset
+In this project, we will use a standard imbalanced machine learning dataset referred to as the oil spill dataset, oil slicks dataset or simply oil. The dataset was introduced in the 1998 paper by Miroslav Kubat, et al. titled Machine Learning for the Detection of Oil Spills in Satellite Radar Images. The dataset is often credited to Robert Holte, a co-author of the paper. The dataset was developed by starting with satellite images of the ocean, some of which contain an oil spill and some that do not. Images were split into sections and processed using computer vision algorithms to provide a vector of features to describe the contents of the image section or patch.
